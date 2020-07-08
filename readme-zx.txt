@@ -6,3 +6,6 @@ git diff
 gid add
 
 git branch
+
+
+新增的信息
